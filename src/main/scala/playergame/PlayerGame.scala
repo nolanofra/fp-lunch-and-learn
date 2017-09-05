@@ -1,3 +1,5 @@
+package playergame
+
 object PlayerGame extends App{
 
   def printWinner(p: Player): Unit = println("... and the winner is " + p.name)

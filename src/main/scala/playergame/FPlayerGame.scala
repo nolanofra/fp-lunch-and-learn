@@ -1,3 +1,5 @@
+package playergame
+
 object FPlayerGame extends App{
 
   def winner(p1: Player, p2:Player) : Player = {
